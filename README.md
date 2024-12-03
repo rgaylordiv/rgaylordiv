@@ -1,5 +1,11 @@
 ## Hello! Welcome To My Profile 👋
 
+- I've been enrolled in a Full Stack Course with TripleTen for the past 8 months
+
+## Languages and Frameworks
+
+![JavaScript](image.png)
+
 ![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=rgaylordiv&show_icons=true&theme=radical)
 
 <!--
